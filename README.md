@@ -5,7 +5,7 @@ I know
 - Markdown
 
 I'm Learning
-- Swift
+- idk
 
 I Use
 - Vscode
